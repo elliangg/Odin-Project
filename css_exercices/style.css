@@ -1,0 +1,18 @@
+.lines {
+    background-color: pink;
+    font-style: verdana;
+}
+#line2{
+    color: blue;
+    font-size: 36px;
+}
+p {
+    font-size: 24px;
+    background-color: pink;
+}
+
+#line4{
+    background-color: green;
+    color: black;
+    font-size: 25px;
+}
